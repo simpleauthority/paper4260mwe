@@ -1,0 +1,5 @@
+name: Paper4260MwePlugin
+description: Churns scoreboards for connected players to test memory consequences
+version: 1.0.0
+api-version: '1.16'
+main: dev.jacobandersen.paper4260mwe.Paper4260MwePlugin
